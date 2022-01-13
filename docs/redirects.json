@@ -1,0 +1,7 @@
+[
+  {
+    "source": "/docs/api-reference/data-fetching/getInitialProps",
+    "destination": "/docs/api-reference/data-fetching/get-initial-props",
+    "permanent": true
+  }
+]
