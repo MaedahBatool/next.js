@@ -28,7 +28,7 @@ Here's the syntax of a HTML form:
 
 The front-end looks like this:
 
-![html forms](https://assets.vercel.com/image/upload/w_675,dpr_2.0/v1643009088/nextjs/guides/building-forms/html-forms.png)
+![html forms](https://assets.vercel.com/image/upload/w_700/v1643009088/nextjs/guides/building-forms/html-forms.png)
 
 The HTML `<form>` tag acts as a container for different `<input>` elements like `text` field and submit `button`. Let's study each of these elements:
 
