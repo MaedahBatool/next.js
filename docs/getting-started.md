@@ -4,7 +4,7 @@ description: Get started with Next.js in the official documentation, and learn m
 
 # Getting Started
 
-Welcome to the Next.js documentation!
+Hello Welcome to the Next.js documentation!
 
 If you're new to Next.js we recommend that you start with the [learn course](https://nextjs.org/learn/basics/create-nextjs-app).
 
